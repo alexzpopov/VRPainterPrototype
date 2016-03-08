@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.VRPAinter Debugging.CSharp.Plugins", "UnityVS.VRPAinter Debugging.CSharp.Plugins.csproj", "{9933D327-6A47-A064-B132-891B5C3CB7C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.VRPAinter Debugging.CSharp", "UnityVS.VRPAinter Debugging.CSharp.csproj", "{F6502F03-A9B4-70F3-62B3-FDB19A1DB753}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.VRPAinter Debugging.CSharp.Editor", "UnityVS.VRPAinter Debugging.CSharp.Editor.csproj", "{586BB50B-7431-E998-F6F7-7EA2EE7E33C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9933D327-6A47-A064-B132-891B5C3CB7C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9933D327-6A47-A064-B132-891B5C3CB7C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9933D327-6A47-A064-B132-891B5C3CB7C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9933D327-6A47-A064-B132-891B5C3CB7C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6502F03-A9B4-70F3-62B3-FDB19A1DB753}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6502F03-A9B4-70F3-62B3-FDB19A1DB753}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6502F03-A9B4-70F3-62B3-FDB19A1DB753}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6502F03-A9B4-70F3-62B3-FDB19A1DB753}.Release|Any CPU.Build.0 = Release|Any CPU
+		{586BB50B-7431-E998-F6F7-7EA2EE7E33C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{586BB50B-7431-E998-F6F7-7EA2EE7E33C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{586BB50B-7431-E998-F6F7-7EA2EE7E33C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{586BB50B-7431-E998-F6F7-7EA2EE7E33C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
